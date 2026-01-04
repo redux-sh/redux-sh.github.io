@@ -1,1 +1,1 @@
-# [reduxsh.github.io](https://redux-sh.github.io/)
+# [redux-sh.github.io](https://redux-sh.github.io/)
